@@ -1,0 +1,29 @@
+===================================
+CS1520 Assignment Information Sheet
+-----------------------------------
+
+You must submit an information sheet with every assignment. Also be sure to
+submit all materials following the procedures described on the submission
+procedures page.
+
+Name: Alyssa Signorelli 
+
+Lecture section: SEC1100    
+
+Assignment #:  4
+
+Does your project run without error?: As far as I know.
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+N/A
+
+
+What approved bonus point front end implementation did you attempt (if any)?: 
+None unfortunately :(
+
+
+Additional comments to the grader: Have a great summer :)!!
+
+
+
